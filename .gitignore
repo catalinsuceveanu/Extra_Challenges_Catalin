@@ -38,7 +38,7 @@
 # .ideacompiler.xml
 # .ideajarRepositories.xml
 # .ideamodules.xml
-# .idea.iml
+*.idea.iml
 # .ideamodules
 *.iml
 # .ipr
