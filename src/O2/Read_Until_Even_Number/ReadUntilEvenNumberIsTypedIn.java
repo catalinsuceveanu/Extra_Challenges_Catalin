@@ -1,7 +1,7 @@
 package O2.Read_Until_Even_Number;
 import java.util.Scanner;
 
-public class Read_Until_Even_Number_is_Typed_In {
+public class ReadUntilEvenNumberIsTypedIn {
     public static void main (String [] args) {
         Scanner scanner = new Scanner(System.in);
         double number;

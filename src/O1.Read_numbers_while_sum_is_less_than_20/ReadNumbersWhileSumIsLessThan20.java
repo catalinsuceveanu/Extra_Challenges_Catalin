@@ -1,7 +1,7 @@
 package O1.Read_numbers_while_sum_is_less_than_20;
 import java.util.Scanner;
 
-public class Read_numbers_while_sum_is_less_than_20 {
+public class ReadNumbersWhileSumIsLessThan20 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in); //new Scanner called scanner to allow us to read typed inputs
